@@ -28,7 +28,7 @@ title "postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
 
 ---
-#Estadisticas
+# Estadisticas:
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JulianaAndreaCaicedoAvila&theme=dark&hide_border=FALSO&border_radius=6&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
