@@ -22,6 +22,9 @@ title "java" alt="JAVA" width="40" height="40"/>&nbsp;
 title "Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
 title "Angular" alt="Angular" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
+title "postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
