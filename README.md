@@ -1,17 +1,18 @@
 <div id="header" aling="center">
-<img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
+<img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" aling="center"/>
 <h1 aling ="center">Hola, soy Juliana Caicedo</h1>
-<h2 aling ="center">Actualmente soy estudiante de Desarrollo de software </h2>
+<h2 aling ="center">Apasionado estudiante de tecnólogo en desarrollo de software, enfocado en construir soluciones creativas y eficientes </h2>
 </div>
 
 ---
 
 # Sobre mi:
 
-   - Soy estudiante de desarrollo de sistemas.
+   - Estudiante en Tecnólogo en Desarrollo de Software en Politécnico Grancolombiano (6 semestre).
+   - Hago parte de dos semilleros de investigación de la universidad enfocados en AI y desarrollo de software.
+   - Tengo conocimientos en los lenguajes: Java (intermedio), Python (básico) y postgresql (básico).
 
 ---
-
 
 <div aling="left">
 <h3> Lenguajes y herramientas: </h3>
