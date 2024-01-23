@@ -6,6 +6,7 @@
 
 ---
 
+
 # Sobre mi:
 
    - Estudiante en Tecnólogo en Desarrollo de Software en Politécnico Grancolombiano (6 semestre).
