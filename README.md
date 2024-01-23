@@ -35,5 +35,5 @@ title "postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JulianaAndreaCaicedoAvila&theme=dark&hide_border=FALSO&border_radius=6&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAndreaCaicedoAvila&hide_progress=true)
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAndreaCaicedoAvila&hide_progress=true)
 
